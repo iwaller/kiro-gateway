@@ -36,7 +36,7 @@
 ### Prerequisites
 
 - Python 3.10+
-- Kiro IDE refresh token ([how to get](#getting-the-refresh-token))
+- [Kiro IDE](https://kiro.dev/) with logged in account
 
 ### Installation
 
